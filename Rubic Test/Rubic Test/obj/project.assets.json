@@ -8796,25 +8796,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\StudentDev\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\astas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS122019\\Rubic Test\\Rubic Test\\Rubic Test.csproj",
+      "projectUniqueName": "C:\\Users\\astas\\OneDrive\\Документы\\GitHub\\PS122019\\Rubic Test\\Rubic Test\\Rubic Test.csproj",
       "projectName": "Rubic Test",
-      "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS122019\\Rubic Test\\Rubic Test\\Rubic Test.csproj",
-      "packagesPath": "C:\\Users\\StudentDev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS122019\\Rubic Test\\Rubic Test\\obj\\",
+      "projectPath": "C:\\Users\\astas\\OneDrive\\Документы\\GitHub\\PS122019\\Rubic Test\\Rubic Test\\Rubic Test.csproj",
+      "packagesPath": "C:\\Users\\astas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\astas\\OneDrive\\Документы\\GitHub\\PS122019\\Rubic Test\\Rubic Test\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\StudentDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\astas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -8825,6 +8820,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -8836,6 +8832,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.InMemory": {
             "target": "Package",
@@ -8878,7 +8875,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
